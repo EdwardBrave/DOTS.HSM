@@ -19,9 +19,9 @@ A lightweight, performance-oriented Hierarchical State Machine (HSM) designed sp
 2. Click the `+` icon and select `Add package from git URL...`.
 3. Enter the repository URL. 
    - For the latest version:
-   `https://github.com/edwardbrave/com.edwardbrave.dots.hsm.git`.
+   `https://github.com/EdwardBrave/DOTS.HSM.git`.
    - For a specific version (replace `v*.*.*` with the desired version): 
-   `https://github.com/edwardbrave/com.edwardbrave.dots.hsm.git#v*.*.*`
+   `https://github.com/EdwardBrave/DOTS.HSM.git#v*.*.*`
 
 
 ## Core Concepts
