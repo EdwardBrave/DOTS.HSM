@@ -1,0 +1,17 @@
+{
+	"name": "com.edwardbrave.dots.hsm",
+	"displayName": "EB.DOTS.HSM",
+	"version": "0.1.0",
+	"unity": "2022.3",
+	"description": "simple Hierarchical State Machine implementation with Unity ECS Support",
+	"dependencies": {
+		"com.unity.test-framework": "1.6.0",
+		"com.unity.entities": "1.4.5"
+	},
+	"author": {
+		"name": "Edward Brave",
+		"url": "https://www.youtube.com/@EdwardBrave",
+		"email": "edward.brave45@gmail.com"
+	},
+	"changelogUrl": "https://github.com/EdwardBrave/dots.hsm/releases"
+}
