@@ -17,7 +17,12 @@ A lightweight, performance-oriented Hierarchical State Machine (HSM) designed sp
 ## Installation
 1. Open the Unity Package Manager (`Window > Package Manager`).
 2. Click the `+` icon and select `Add package from git URL...`.
-3. Enter the repository URL: `https://github.com/edwardbrave/com.edwardbrave.dots.hsm.git` (or your local path).
+3. Enter the repository URL. 
+   - For the latest version:
+   `https://github.com/edwardbrave/com.edwardbrave.dots.hsm.git`.
+   - For a specific version (replace `v*.*.*` with the desired version): 
+   `https://github.com/edwardbrave/com.edwardbrave.dots.hsm.git#v*.*.*`
+
 
 ## Core Concepts
 The package is built on three main pillars:
