@@ -42,6 +42,11 @@ namespace EB.DOTS.HSM
 
         protected override void OnDestroy()
         {
+            if (!SystemAPI.ManagedAPI.HasSingleton<HsmRoot>())
+            {
+                return;
+            }
+            
             var hsm = SystemAPI.ManagedAPI.GetSingleton<HsmRoot>();
             hsm.OnExitInternal(this);
         }
