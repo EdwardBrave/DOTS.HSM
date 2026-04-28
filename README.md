@@ -1,7 +1,6 @@
-# EB.DOTS.HSM
+# EB DOTS Hierarchical State Machine
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/EdwardBrave/DOTS.HSM)
 ![Unity 2022.3+](https://img.shields.io/badge/unity-2022.3+-blue.svg)
-![DOTS](https://img.shields.io/badge/DOTS-Entities-orange.svg)
 ![GitHub License](https://img.shields.io/github/license/EdwardBrave/DOTS.HSM)
 
 A lightweight, performance-oriented Hierarchical State Machine (HSM) designed specifically for Unity DOTS (ECS). It allows for complex game logic management while maintaining high performance and clean system isolation by automatically managing the enabled state of ECS systems.
